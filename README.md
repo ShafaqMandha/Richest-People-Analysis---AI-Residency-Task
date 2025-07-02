@@ -1,1 +1,1 @@
-# Richest-People-Analysis---AI-Residency-Task
+# Richest-People-Analysis-AI-Residency-Task
